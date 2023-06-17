@@ -82,7 +82,7 @@
             },
             {
               "name": "Project",
-              "value": "RCL.AutoRenew.Function"
+              "value": "RCL.SSL.AutoRenew.Function"
             },
             {
               "name": "CRON_EXPRESSION",
