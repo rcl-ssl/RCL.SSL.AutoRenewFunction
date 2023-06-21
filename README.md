@@ -3,11 +3,11 @@
 
 Use this Microsoft Azure Function app to automatically renew SSL/TLS certificates created with the [RCL SSL Portal](https://docs.rclapp.com/).
 
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Frcl-ssl%2FRCL.SSL.AutoRenewFunction%2Fdev%2Fazuredeploy.json)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Frcl-ssl%2FRCL.SSL.AutoRenewFunction%2Fmaster%2Fazuredeploy.json)
 
 ## Automatically Renew SSL/TLS Certificates
 
-You can use the function app to automatically renew SSL/TLS certificates created in the **RCL Portal** using the following creation options :
+You can use the function app to automatically renew SSL/TLS certificates created in the **RCL SSL Portal** using the following creation options :
 
 - Azure Key Vault + DNS (including SAN)
 - Azure DNS (including SAN)
