@@ -82,7 +82,7 @@
             },
             {
               "name": "Project",
-              "value": "RCL.AutoRenew.Function"
+              "value": "RCL.SSL.AutoRenew.Function"
             },
             {
               "name": "CRON_EXPRESSION",
@@ -114,7 +114,7 @@
             }
           ],
           "use32BitWorkerProcess": true,
-          "netFrameworkVersion": "v7.0"
+          "netFrameworkVersion": "v6.0"
         }
       },
       "resources": [
@@ -126,7 +126,7 @@
             "[resourceId('Microsoft.Web/sites', variables('appName'))]"
           ],
           "properties": {
-            "packageUri": "https://github.com/rcl-ssl/RCL.SSL.AutoRenewFunction/releases/download/V7.0.0/autorenew.zip"
+            "packageUri": "https://github.com/rcl-ssl/RCL.SSL.AutoRenewFunction/releases/download/v7.0.0/autorenew.zip"
           }
         }
       ]
