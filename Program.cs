@@ -2,7 +2,7 @@
 
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
-using RCL.SSL.SDK;
+using RCL.Internal.SSL.SDK;
 
 IConfiguration configuration = null;
 
